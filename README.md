@@ -1,4 +1,5 @@
 # CypressReports
+
 Cypress Report with GitHub Actions workflow and publish report in GitHub Pages
 
 [![Generate Cypress Report](https://github.com/executeautomation/CypressReports/actions/workflows/cypress-report.yml/badge.svg)](https://github.com/executeautomation/CypressReports/actions/workflows/cypress-report.yml)
