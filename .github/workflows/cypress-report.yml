@@ -7,6 +7,9 @@ on:
   push:
     branches:
       - 'master'
+  pull_request:
+    branches:
+      - 'master'
 #jobs to run to report
 jobs:
   cypress-test:
